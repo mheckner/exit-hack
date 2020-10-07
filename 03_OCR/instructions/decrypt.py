@@ -28,7 +28,7 @@ def decryptSentence(sentence, key):
     return decryptedSentence
 
 def readSentenceFromFile():
-    encryptedSentence = open("encrypted_message.text", "r").read()
+    encryptedSentence = open("encrypted_message.txt", "r").read()
     return encryptedSentence
 
 if __name__ == "__main__":
