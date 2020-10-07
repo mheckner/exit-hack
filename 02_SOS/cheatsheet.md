@@ -14,6 +14,19 @@ void loop() {
 }
 ```
 
+## Additional setup
+Your Arduino IDE needs access to the Arduino over USB. Follow these steps, before trying to upload a program to the Arduino:
+
+### Connect Arduino through USB
+First plug the Arduino into one of the USB ports of your computer.
+
+### Give virtual machine access to the Arduino over USB
+The Linux system inside the virtual machine needs to get access to the plugged USB device. The following picture shows where to click:
+![setup usb in virtual machine](../img/setup_arduino_usb.png?raw=true)
+
+## Resistors
+You need a 220 Ohm resistor for this task.
+
 
 ## Basic control structures in programming
 
