@@ -10,7 +10,7 @@ Ab jetzt werden Sie auf einem virtuellen Computer arbeiten, d.h. ein Computer, d
 2. Öffnen Sie ein erstes Arduino Beispiel durch Klick auf `Datei->Beispiele->01. Basics->Blink`.
 3. Verbinden Sie den Arduino per USB-Kabel mit dem PC
 4. Das Linux Betriebssystem Ihres *Computers im Computer* benötigt Zugriff auf den USB-Port. Das folgende Bild zeigt,den dafür notwendigen Klick:
-![setup usb in virtual machine](../img/setup_arduino_usb.png?raw=true)
+![setup usb in virtual machine](./examples/hello_world_blynk_button/hello_world_blynk_button.png?raw=true)
 5. Übertragen Sie jetzt das Blink-Beispiel auf den Arduino durch Klick den Button "Hochladen in der Arduino IDE". Eine LED auf dem Arduino sollte blinken.
 
 **Machen Sie erst weiter, wenn die LED blinkt.**
@@ -21,6 +21,7 @@ Dort finden Sie die Datei `sos.ino`. Diese enthält bereits den vollständigen C
 **Öffnen Sie aus der Arduino IDE heraus die Datei sos.ino (Die Datei finden Sie auf dem Schreibtisch).**
 
 Beginnen Sie damit die folgende Verkabelung herzustellen:
+![wiring button led](../img/setup_arduino_usb.png?raw=true)
 
 Übertragen Sie das Programm auf den Arduino durch Klick auf den Button "Hochladen in der Arduino IDE". Die LED sollte leuchten, wenn Sie die Taste drücken.
 
