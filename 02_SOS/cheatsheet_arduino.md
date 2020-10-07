@@ -14,7 +14,6 @@ void loop() {
 }
 ```
 
-
 ## Basic control structures in programming
 
 ### Comments
