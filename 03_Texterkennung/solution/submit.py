@@ -19,43 +19,44 @@ correctNumbers = """1598489145
 3765284974
 9645267576
 7845184516
-1598489146
-1265411860
-5584687677
-6875615875
-9878542863
-6652144877
-3765284975
-9645267577
-7845184517
-1598489146
-1265411860
-5584687677
-6875615875
-9878542863
-6652144877
-3765284975
-9645267577
-7845184517
-1598489147
-1265411861
-5584687678
-6875615876
-9878542864
-6652144878
-3765284976
-9645267578
-7845184518
-1598489147
-1265411861
-5584687678
-6875615876
-9878542864
-6652144878
-3765284976
-9645267578
-7845184518
 
+1598489146
+1265411860
+5584687677
+6875615875
+9878542863
+6652144877
+3765284975
+9645267577
+7845184517
+1598489146
+1265411860
+5584687677
+6875615875
+9878542863
+6652144877
+3765284975
+9645267577
+7845184517
+
+1598489147
+1265411861
+5584687678
+6875615876
+9878542864
+6652144878
+3765284976
+9645267578
+7845184518
+1598489147
+1265411861
+5584687678
+6875615876
+9878542864
+6652144878
+3765284976
+9645267578
+7845184518
 """
 
 def main(file):
@@ -67,10 +68,10 @@ def main(file):
 def compareFiles(file):
     with open(file, 'r') as file:
         data = file.read()
-    if (data == correctNumbers):
-        print(colored('Sorry, Zahlen stimmen nicht überein! Versuchen Sie es weiter.', 'red'))
+    if (correctNumbers.strip() == data.strip()):
+        print(colored('Die Zahlen stimmen! Öffnen Sie den gründne Umschlag.', 'green'))
     else:
-        print(colored('Die Zahlen stimmen! Sie haben den Stromausfall behoben!', 'green'))
+        print(colored('Sorry, Zahlen stimmen nicht überein! Versuchen Sie es weiter.', 'red'))
 
 def printSubmissionProgress():
     items = list(range(0, 20))
@@ -120,5 +121,10 @@ def printProgressBar (iteration, total, prefix = '', suffix = '', decimals = 1, 
 if __name__ == "__main__":
     if (len(sys.argv) < 2):
         print(colored('Fehler! Korrekter Aufruf: python3 submit.py numbers.csv', 'red'))
+        exit()
+    try:
+        open(sys.argv[1], "r")
+    except IOError:
+        print(colored("Fehler: Datei " + sys.argv[1] + " existiert nicht.", "red"))
         exit()
     main(sys.argv[1])
