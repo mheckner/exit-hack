@@ -1,10 +1,19 @@
 import sys
+from time import sleep
+from progress.spinner import PixelSpinner
 
 def main():
     key = 7
     sentence = readSentenceFromFile()
+    showProgress()
     decryptedSentence = decryptSentence(sentence, key)
     print(decryptedSentence)
+
+def showProgress():
+    with PixelSpinner('Entschlüsselung läuft...') as bar:
+        for i in range(100):
+            sleep(0.06)
+            bar.next()
 
 def decryptChar(char, key):
     originalCharAscii = ord(char)
@@ -28,7 +37,7 @@ def decryptSentence(sentence, key):
     return decryptedSentence
 
 def readSentenceFromFile():
-    encryptedSentence = open("encrypted_message.txt", "r").read()
+    encryptedSentence = open("encrypted_message.text", "r").read()
     return encryptedSentence
 
 if __name__ == "__main__":
