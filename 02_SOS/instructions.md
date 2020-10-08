@@ -11,7 +11,7 @@ Ab jetzt werden Sie auf einem virtuellen Computer arbeiten, d.h. ein Computer, d
 3. Verbinden Sie den Arduino per USB-Kabel mit dem PC
 4. Das Linux Betriebssystem Ihres *Computers im Computer* benötigt Zugriff auf den USB-Port. Das folgende Bild zeigt,den dafür notwendigen Klick:
 ![setup usb in virtual machine](../img/setup_arduino_usb.png?raw=true)
-5. Übertragen Sie jetzt das Blink-Beispiel auf den Arduino durch Klick den Button "Hochladen in der Arduino IDE". Eine LED auf dem Arduino sollte blinken.
+5. Übertragen Sie jetzt das Blink-Beispiel auf den Arduino durch Klick den Button "Hochladen in der Arduino IDE". Die orange LED auf dem Arduino sollte blinken.
 
 **Machen Sie erst weiter, wenn die LED blinkt.**
 
