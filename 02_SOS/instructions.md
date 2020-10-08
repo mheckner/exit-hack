@@ -6,8 +6,8 @@ Ab jetzt werden Sie auf einem virtuellen Computer arbeiten, d.h. ein Computer, d
 3. Loggen Sie sich ein, das Passwort lautet "hack", der User ist bereits voreingestellt.
 
 # Arduino IDE starten und das erste Programm auf den Arduino laden
-1. Starten Sie die Arduino Entwicklungsumgebung durch Klick auf das Arduino Logo in der linken Seitenleiste.
-2. Öffnen Sie ein erstes Arduino Beispiel durch Klick auf `Datei->Beispiele->01. Basics->Blink`.
+1. Starten Sie die Arduino Entwicklungsumgebung durch Klick auf das Arduino Logo in der linken Seitenleiste (Unendlichkeitssymbol auf grünem Hintergrund).
+2. Klicken Sie in das Menü oben in der Arduino Entwicklungsumgebung. Öffnen Sie ein erstes Arduino Beispiel durch Klick auf `Datei->Beispiele->01. Basics->Blink`.
 3. Verbinden Sie den Arduino per USB-Kabel mit dem PC
 4. Das Linux Betriebssystem Ihres *Computers im Computer* benötigt Zugriff auf den USB-Port. Das folgende Bild zeigt,den dafür notwendigen Klick:
 ![setup usb in virtual machine](../img/setup_arduino_usb.png?raw=true)
