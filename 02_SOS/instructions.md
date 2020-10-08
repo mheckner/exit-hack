@@ -23,11 +23,10 @@ Ab jetzt werden Sie auf einem virtuellen Computer arbeiten, d.h. ein Computer, d
 2. Klicken Sie dort auf Schreibtisch
 3. Navigieren Sie dann zum Ordner `02_SOS/solution/sos` und öffnen dort die Datei `sos.ino`.
 Diese Datei enthält bereits den vollständigen Code, um eine LED leuchten zu lassen, wenn der Benutzer einen Taster auf dem Breadboard drückt.
-
-Beginnen Sie damit die folgende Verkabelung herzustellen:
-![wiring button led](./examples/hello_world_blynk_button/hello_world_blynk_button.png?raw=true)
-
 Übertragen Sie das Programm auf den Arduino durch Klick auf den Button "Hochladen in der Arduino IDE". Die LED sollte leuchten, wenn Sie die Taste drücken.
+
+Stellen Sie jetzt die folgende Verkabelung her (**Stecken Sie den Arduino vorher aus!**):
+![wiring button led](./examples/hello_world_blynk_button/hello_world_blynk_button.png?raw=true)
 
 **Passen Sie jetzt den Code der geöffneten Datei so an, dass das SOS Signal bei Tastendruck gesendet wird!**
 
