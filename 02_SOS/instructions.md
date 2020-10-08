@@ -16,9 +16,10 @@ Ab jetzt werden Sie auf einem virtuellen Computer arbeiten, d.h. ein Computer, d
 **Machen Sie erst weiter, wenn die LED blinkt.**
 
 # Bearbeitung der Aufgabe
-Öffnen Sie den Ordner `exit-hack` auf dem Desktop und navigieren zum Ordner `02_SOS/solution/sos`.
-Dort finden Sie die Datei `sos.ino`. Diese enthält bereits den vollständigen Code, um eine LED leuchten zu lassen, wenn der Benutzer einen Taster auf dem Breadboard drückt.
-**Öffnen Sie aus der Arduino IDE heraus die Datei sos.ino (Die Datei finden Sie auf dem Schreibtisch).**
+1. Klicken Sie jetzt wieder in der Arduino IDE auf das Menü und wählen `Datei->Öffnen`. 
+2. Klicken Sie dort auf Schreibtisch
+3. Navigieren Sie dann zum Ordner `02_SOS/solution/sos` und öffnen dort die Datei `sos.ino`.
+Diese Datei enthält bereits den vollständigen Code, um eine LED leuchten zu lassen, wenn der Benutzer einen Taster auf dem Breadboard drückt.
 
 Beginnen Sie damit die folgende Verkabelung herzustellen:
 ![wiring button led](./examples/hello_world_blynk_button/hello_world_blynk_button.png?raw=true)
