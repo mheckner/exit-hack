@@ -1,3 +1,6 @@
+# Achtung: Lesen Sie erst diese Seite vollständig durch, bevor Sie mit der Aufgabe beginnen.
+
+
 # Virtuelle Maschine starten
 Ab jetzt werden Sie auf einem virtuellen Computer arbeiten, d.h. ein Computer, der in Ihrem Computer gestartet wird. Führen Sie zunächst die folgenden Schritte aus:
 
@@ -26,7 +29,7 @@ Beginnen Sie damit die folgende Verkabelung herzustellen:
 
 Übertragen Sie das Programm auf den Arduino durch Klick auf den Button "Hochladen in der Arduino IDE". Die LED sollte leuchten, wenn Sie die Taste drücken.
 
-**Senden Sie jetzt das SOS Signal bei Tastendruck!**
+**Passen Sie jetzt den Code der geöffneten Datei so an, dass das SOS Signal bei Tastendruck gesendet wird!**
 
 ## Tipps
 * [Grundlagen Morsecode](https://github.com/mheckner/exit-hack/blob/master/02_SOS/morsecode.md)
