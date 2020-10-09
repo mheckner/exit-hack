@@ -3,7 +3,7 @@ Auf Ihrem Rechner finden Sie neben der verschlüsselten Botschaft auch ein Progr
 Entschlüsseln Sie die Nachricht durch Ausführen
 von decrypt.py
 
-Klicken Sie dazu mit der rechten Maustaste in den freien Bereich neben der Datei:
+Klicken Sie dazu zuerst mit der rechten Maustaste in den freien Bereich neben der Datei:
 ![terminal starten](../../img/start_terminal.png?raw=true)
 
 Falls Sie Hilfe zum Starten des Programms benötigen, können Sie einen Blick in die Folien im Ordner `03_Texterkennung/slides` werfen
