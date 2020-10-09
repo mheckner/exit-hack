@@ -36,7 +36,7 @@ void setup() {
 A loop is written as follows, where N represents the number of times the code between the curly braces is repeated.
 
 ```c
-for (int i=0; i++; i<N) {
+for (int i=0; i<N; i++) {
   // repeat this
 }
 ```
