@@ -40,6 +40,6 @@ def main():
     message = "Hello World!"
     printMessage(message)
 
-def printMessage(msg):
-    print(msg)
+def printMessage(message):
+    print(message)
 ```
