@@ -37,5 +37,5 @@ Stecken jetzt den Arduino wieder an. Die LED sollte leuchten, wenn Sie die Taste
 * [Foliensatz zu Arduino](https://github.com/mheckner/exit-hack/tree/master/02_SOS/slides)
 * [Cheatsheet mit Codebeispielen und Erklärungen](https://github.com/mheckner/exit-hack/blob/master/02_SOS/cheatsheet_arduino.md)
 * Weitere Code- und Verkabelungsbeispiele finden Sie im Ordner [examples](https://github.com/mheckner/exit-hack/tree/master/02_SOS/examples)
-* Leider sind nicht alle Widerstände farbig identisch codiert - Sie benötigen einen **220 Ohm** Widerstand
+* Leider sind nicht alle Widerstände farbig identisch codiert - Sie benötigen einen **220 Ohm** Widerstand für die LED und einen **00 kOhm** für den Button
 
