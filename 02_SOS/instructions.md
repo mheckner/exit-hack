@@ -21,7 +21,7 @@ Ab jetzt werden Sie auf einem virtuellen Computer arbeiten, d.h. ein Computer, d
 # Bearbeitung der Aufgabe
 1. Klicken Sie jetzt wieder in der Arduino IDE auf das Menü und wählen `Datei->Öffnen`. 
 2. Klicken Sie dort auf Schreibtisch
-3. Navigieren Sie dann zum Ordner `02_SOS/solution/sos` und öffnen dort die Datei `sos.ino`.
+3. Navigieren Sie dann zum Ordner `exit-hack/02_SOS/solution/sos` und öffnen dort die Datei `sos.ino`.
 Diese Datei enthält bereits den vollständigen Code, um eine LED leuchten zu lassen, wenn der Benutzer einen Taster auf dem Breadboard drückt.
 4. Übertragen Sie das Programm auf den Arduino durch Klick auf den Button *Hochladen* in der Arduino IDE.
 
