@@ -1,9 +1,9 @@
-Auf Ihrem Rechner finden Sie neben der verschlüsselten Botschaft auch ein Programm `decrypt.py`zur Entschlüsselung dieser Botschaft.
+Auf Ihrem Rechner finden Sie neben der verschlüsselten Botschaft im Ordner `03_Texterkennung/instructions` auch ein Programm `decrypt.py`zur Entschlüsselung dieser Botschaft.
 
 Entschlüsseln Sie die Nachricht durch Ausführen
 von decrypt.py
 
-Klicken Sie dazu zuerst mit der rechten Maustaste in den freien Bereich neben der Datei:
+Klicken Sie dazu zuerst mit der rechten Maustaste in den freien Bereich neben der Datei und wählen "In Terminal öffnen":
 ![terminal starten](../../img/start_terminal.png?raw=true)
 
 Falls Sie Hilfe zum Starten des Programms benötigen, können Sie einen Blick in die Folien im Ordner `03_Texterkennung/slides` werfen
