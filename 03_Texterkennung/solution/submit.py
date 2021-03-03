@@ -69,9 +69,9 @@ def compareFiles(file):
     with open(file, 'r') as file:
         data = file.read()
     if (correctNumbers.strip() == data.strip()):
-        print(colored('Die Zahlen stimmen! Öffnen Sie den gründne Umschlag.', 'green'))
+        print(colored('Die Identifikationsnummer ist in den übermittelten Zeichenfolgen enthalten! Öffnen Sie den grünen Umschlag.', 'green'))
     else:
-        print(colored('Sorry, Zahlen stimmen nicht überein! Versuchen Sie es weiter.', 'red'))
+        print(colored('Sorry, konnte die Identifikationsnummer nicht erkennen! Versuchen Sie es weiter.', 'red'))
 
 def printSubmissionProgress():
     items = list(range(0, 20))
