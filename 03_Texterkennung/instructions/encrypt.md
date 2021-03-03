@@ -6,7 +6,7 @@ von `decrypt.py`
 Klicken Sie dazu zuerst mit der rechten Maustaste in den freien Bereich neben der Datei und wählen "In Terminal öffnen":
 ![terminal starten](../../img/start_terminal.png?raw=true)
 
-Falls Sie Hilfe zum Starten des Programms benötigen, können Sie einen Blick in die Folien im Ordner `03_Texterkennung/slides` werfen
+Falls Sie Hilfe zum Starten des Programms benötigen, können Sie einen Blick in die Folien im Ordner `03_Texterkennung/slides` werfen.
 
 Offensichtlich enthält dieses Programm einen Fehler (= Bug).
 
