@@ -3,15 +3,14 @@ Typically today, users interact with a computer through a graphical user interfa
 
 Those commands 
 
-### Showing the current path to the current folder
+### Showing the path to the current folder
+Type pwd to show the path to the current folder (the user is in the folder /home/runner/exit-coding-game):
 ```console
-foo@bar:~$ whoami
-foo
+~/exit-coding-game$ pwd
+/home/runner/exit-coding-game
 ```
-
-```shell
-python3 hello_world.py
-```
+Note that the user is currently in the folder /exit-coding-game and pwd is the command that the user types (followed by enter). 
+/home/runner/exit-coding-game is the output (i.e. the answer) of the command pwd.
 
 ### Showing all files in the current folder
 
