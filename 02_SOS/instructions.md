@@ -8,14 +8,18 @@ Folgen Sie der Anleitung aus der EInladungsemail, um diese zu installieren.
 3. Verbinden Sie den Arduino per USB-Kabel mit dem PC
 4. Übertragen Sie jetzt das Blink-Beispiel auf den Arduino durch Klick den Button "Hochladen in der Arduino IDE". Die orange LED auf dem Arduino sollte blinken. Möglicherweise wird dieses Programm bereits auf dem neuen Arduino ausgeführt. Verändern Sie die Werte für `delay` (Zeit in Millisekunden) und übertragen Sie das Programm erneut, um zu überprüfen, ob der Upload funktioniert.
 
+**Tipp:** Achten Sie darau, dass Sie im Menü unter `Tools->Port` den Arduino ausgewählt haben. Sonst kann das Programm nicht auf den Arduino übertragen werden.
+
 **Machen Sie erst weiter, wenn die LED blinkt.**
 
 # Bearbeitung der Aufgabe
 Für diese Aufgabe existiert eine Datei, die bereits den vollständigen Code enthält, um eine LED leuchten zu lassen, wenn der Benutzer einen Taster auf dem Breadboard drückt.
 
-1. Laden Sie sich die Datei unter dem folgenden Link auf Ihren Rechner: https://github.com/mheckner/exit-hack/blob/master/02_SOS/solution/sos/sos.ino
-2. Klicken Sie jetzt wieder in der Arduino IDE auf das Menü und wählen `Datei->Öffnen` und wählen die soeben heruntergeladene Datei `sos.ino`. 
-4. Übertragen Sie das Programm auf den Arduino durch Klick auf den Button *Hochladen* in der Arduino IDE.
+1. Kopieren Sie diesen Code in die Arduino IDE (und ersetzen den bestehenden Beispielcode). Sie können den Code hier herunterladen: https://github.com/mheckner/exit-hack/blob/master/02_SOS/solution/sos/sos.ino
+
+![](../img/arduino.png?raw=true)
+
+2. Übertragen Sie das Programm auf den Arduino durch Klick auf den Button *Hochladen* in der Arduino IDE.
 
 Stecken jetzt den Arduino wieder an. Die LED sollte leuchten, wenn Sie die Taste drücken.
 
