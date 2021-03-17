@@ -8,7 +8,7 @@ Those commands are typed in the shell. The following image shows the state of th
 **Commands are typed on one line and are executed by hitting the enter key.**
 
 ### Running the code in a Python script
-To run (or execute) the code in the Python file `hello_world.py`, type the following command:
+To run (or execute) the code in the Python file `hello_world.py`, type the following command (followed by enter):
 ```shell
 python3 hello_world.py
 ```
@@ -20,7 +20,7 @@ Type `pwd` to show the path to the current folder:
 ~/exit-coding-game$ pwd
 /home/runner/exit-coding-game
 ```
-Note that the user is currently in the folder `/exit-coding-game` and `pwd` is the command that the user types (followed by enter). 
+Note that the user is currently in the folder `/exit-coding-game` and `pwd` is the command that the user types. 
 `/home/runner/exit-coding-game` is the output (i.e. the answer) of the command `pwd`.
 
 ### Changing into a folder one level down (i.e. clicking into a folder)
