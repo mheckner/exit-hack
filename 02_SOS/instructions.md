@@ -17,7 +17,7 @@ Für diese Aufgabe existiert eine Datei, die bereits den vollständigen Code ent
 
 1. Kopieren Sie diesen Code in die Arduino IDE (und ersetzen den bestehenden Beispielcode). Sie können den Code hier herunterladen: https://github.com/mheckner/exit-hack/blob/master/02_SOS/solution/sos/sos.ino
 
-![](../../img/arduino.png?raw=true)
+![](../img/arduino.png?raw=true)
 
 2. Übertragen Sie das Programm auf den Arduino durch Klick auf den Button *Hochladen* in der Arduino IDE.
 
