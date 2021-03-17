@@ -1,8 +1,8 @@
 # Aufgabe 3 - Texterkennung
 
 ## 1. Vorbereitung
-### Repl löschen, falls Sie den Anweisungen aus der Einladungsmail gefolgt sind
-Falls Sie den Anweisungen aus der Einladungsmail bereits gefolgt sind, müssen Sie die folgenden Schritte durchführen (falls Sie die Anweisungen aus der Einladungsmail nicht gefolgt sind, dann weiter bei **Repl erstellen**), um ihre Arbeitsumgebung noch einmal neu aufzusetzen.
+### 1.1. Repl löschen, falls Sie den Anweisungen aus der Einladungsmail gefolgt sind
+Falls Sie den Anweisungen aus der Einladungsmail bereits gefolgt sind, müssen Sie die folgenden Schritte durchführen, um ihre Arbeitsumgebung noch einmal neu aufzusetzen (falls Sie die Anweisungen aus der Einladungsmail nicht gefolgt sind, dann weiter bei **1.2. Repl erstellen**).
 
 1. Loggen Sie sich bei repl.it ein: https://repl.it/
 2. Klicken Sie im Menü links oben auf *My repls*
@@ -15,7 +15,7 @@ Falls Sie den Anweisungen aus der Einladungsmail bereits gefolgt sind, müssen S
 
 Jetzt weiter bei **Repl erstellen**.
 
-### Repl erstellen
+### 1.2. Repl erstellen
 Für diese Aufgabe benötigen Sie repl.it. Führen Sie die folgenden Schritte durch falls noch nicht geschehen:
 
 1. Registrieren Sie sich bei repl.it unter dem folgenden Link: https://repl.it/signup
@@ -27,7 +27,7 @@ Für diese Aufgabe benötigen Sie repl.it. Führen Sie die folgenden Schritte du
 
 Achtung: Laden Sie die Seite nicht neu im Browser, ansonsten müssen Sie erneut den run-Button klicken.
 
-Jetzt weiter bei **Aufgabe - Nachricht entschlüsseln**.
+Jetzt weiter bei **2. Aufgabe - Nachricht entschlüsseln**.
 
 ## 2. Aufgabe - Nachricht entschlüsseln
 Im Ordner `03_Texterkennung/instructions` finden Sie das Python-Skript `decrypt.py`zur Entschlüsselung der Nachricht.
