@@ -30,7 +30,7 @@ Achtung: Laden Sie die Seite nicht neu im Browser, ansonsten müssen Sie erneut 
 Jetzt weiter bei **Aufgabe - Nachricht entschlüsseln**.
 
 ## 2. Aufgabe - Nachricht entschlüsseln
-Im Ordner `03_Texterkennung/instructions` finden Sie das Python-Skript `decrypt.py`zur Entschlüsselung dieser Botschaft.
+Im Ordner `03_Texterkennung/instructions` finden Sie das Python-Skript `decrypt.py`zur Entschlüsselung der Nachricht.
 
 Entschlüsseln Sie die Nachricht durch Ausführen
 von `decrypt.py`
