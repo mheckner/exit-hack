@@ -13,7 +13,7 @@ python3 hello_world.py
 For this to work, the Python file must be in the same folder. The following sections explain how to navigate between folders.
 
 ### Showing the path to the current folder
-Type `pwd` to show the path to the current folder (the user is in the folder /home/runner/exit-coding-game):
+Type `pwd` to show the path to the current folder:
 ```console
 ~/exit-coding-game$ pwd
 /home/runner/exit-coding-game
@@ -22,15 +22,15 @@ Note that the user is currently in the folder `/exit-coding-game` and `pwd` is t
 `/home/runner/exit-coding-game` is the output (i.e. the answer) of the command `pwd`.
 
 ### Changing into a folder one level down (i.e. clicking into a folder)
-Type `cd` (change directory) command followed by space and a folder name to navigate into the folder:
+Type the `cd` (change directory) command followed by space and a folder name to navigate into the folder:
 ```console
-~/exit-coding-game$ cd exit-hack/
+~/exit-coding-game$ cd exit-hack
 ~/exit-coding-game/exit-hack$ 
 ```
 In the example above, the user changed from the folder `exit-coding-game`into the folder `exit-hack`.
 
 ### Changing into a folder one level up (i.e. clicking into the parent folder of the current folder)
-Type `cd ..` (change directory) to navigate into a folder one level higher:
+Type `cd ..` (again, change directory) to navigate into a folder one level higher:
 ```console
 ~/exit-coding-game/exit-hack$ cd ..
 ~/exit-coding-game$ 
