@@ -1,7 +1,10 @@
 # Cheatsheet Command Line
-Typically today, users interact with a computer through a graphical user interface and navigate through folders by pointing and clicking with a cursor. In programming however, this is often done through typing commands, instead of clicking. This document explains some typical commands that you need to solve the exit coding game.
+Typically today, users interact with a computer through a graphical user interface and navigate through folders by pointing and clicking with a cursor. In programming however, this is often done through typing commands, instead of clicking. This page explains some typical commands that you might need in order to solve the exit coding game.
 
-Those commands 
+Those commands are typed in the shell. The following image shows the state of the shell after the user has typed in the command `pwd`, followed by hitting the enter button. In this case the result of this command (`/home/runner/exit-coding-game`) is shown in the next line.
+
+![typing commands in the repl.it shell](../img/shell.png?raw=true)
+
 
 ### Showing the path to the current folder
 Type pwd to show the path to the current folder (the user is in the folder /home/runner/exit-coding-game):
