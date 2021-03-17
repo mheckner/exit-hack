@@ -3,11 +3,11 @@
 Falls Sie den Anweisungen aus der Einladungsmail bereits gefolgt sind, müssen Sie die folgenden Schritte durchführen (falls Sie die Anweisungen aus der Einladungsmail nicht gefolgt sind, dann weiter bei **Repl erstellen**), um ihre Arbeitsumgebung noch einmal neu aufzusetzen.
 
 1. Loggen Sie sich bei repl.it ein: https://repl.it/
+2. Klicken Sie im Menü links oben auf *My repls*
 
 ![](../../img/del_my_repls.png?raw=true)
 
-3. Klicken Sie im Menü links oben auf *My repls*
-4. Wählen Sie dann das repl *exit-coding-game*, klicken auf die drei Punkte und dann auf *Delete*.
+3. Wählen Sie dann das repl *exit-coding-game*, klicken auf die drei Punkte und dann auf *Delete*.
 
 ![](../../img/del_my_repls_exit.png?raw=true)
 
