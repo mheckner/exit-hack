@@ -1,6 +1,6 @@
 # Aufgabe 3 - Texterkennung
 
-## Vorbereitung
+## 1. Vorbereitung
 ### Repl löschen, falls Sie den Anweisungen aus der Einladungsmail gefolgt sind
 Falls Sie den Anweisungen aus der Einladungsmail bereits gefolgt sind, müssen Sie die folgenden Schritte durchführen (falls Sie die Anweisungen aus der Einladungsmail nicht gefolgt sind, dann weiter bei **Repl erstellen**), um ihre Arbeitsumgebung noch einmal neu aufzusetzen.
 
@@ -29,7 +29,7 @@ Achtung: Laden Sie die Seite nicht neu im Browser, ansonsten müssen Sie erneut 
 
 Jetzt weiter bei **Aufgabe - Nachricht entschlüsseln**.
 
-## Aufgabe - Nachricht entschlüsseln
+## 2. Aufgabe - Nachricht entschlüsseln
 Im Ordner `03_Texterkennung/instructions` finden Sie das Python-Skript `decrypt.py`zur Entschlüsselung dieser Botschaft.
 
 Entschlüsseln Sie die Nachricht durch Ausführen
