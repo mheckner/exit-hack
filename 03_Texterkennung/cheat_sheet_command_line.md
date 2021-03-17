@@ -5,28 +5,45 @@ Those commands are typed in the shell. The following image shows the state of th
 
 ![typing commands in the repl.it shell](../img/shell.png?raw=true)
 
+### Running the code in a Python script
+To run (or execute) the code in the Python file `hello_world.py`, type the following command:
+```shell
+python3 hello_world.py
+```
+For this to work, the Python file must be in the same folder. The following sections explain how to navigate between folders.
 
 ### Showing the path to the current folder
-Type pwd to show the path to the current folder (the user is in the folder /home/runner/exit-coding-game):
+Type `pwd` to show the path to the current folder (the user is in the folder /home/runner/exit-coding-game):
 ```console
 ~/exit-coding-game$ pwd
 /home/runner/exit-coding-game
 ```
-Note that the user is currently in the folder /exit-coding-game and pwd is the command that the user types (followed by enter). 
-/home/runner/exit-coding-game is the output (i.e. the answer) of the command pwd.
+Note that the user is currently in the folder `/exit-coding-game` and `pwd` is the command that the user types (followed by enter). 
+`/home/runner/exit-coding-game` is the output (i.e. the answer) of the command `pwd`.
+
+### Changing into a folder one level down (i.e. clicking into a folder)
+Type `cd` (change directory) command followed by space and a folder name to navigate into the folder:
+```console
+~/exit-coding-game$ cd exit-hack/
+~/exit-coding-game/exit-hack$ 
+```
+In the example above, the user changed from the folder `exit-coding-game`into the folder `exit-hack`.
+
+### Changing into a folder one level up (i.e. clicking into the parent folder of the current folder)
+Type `cd ..` (change directory) to navigate into a folder one level higher:
+```console
+~/exit-coding-game/exit-hack$ cd ..
+~/exit-coding-game$ 
+```
+In the example above, the user went from the folder `exit-hack` into the folder `exit-coding-game`.
 
 ### Showing all files in the current folder
-
-### Changing into a directory one level down (i.e. clicking into a folder)
-
-### Changing into a directory one level up (i.e. clicking into the parent folder of the current folder)
-
-### Showing all files in the folder
-
-### Running the code in a Python script
-
-To run (or execute) the code in the Python file hello_world.py, type the following command:
-```shell
-python3 hello_world.py
+Type `ls`to show all files (and subfolders) within the current folder:
+```console
+~/.../exit-hack/03_Texterkennung$ ls
+cheatsheet_python.md  examples  instructions  slides  solution
 ```
+In this case the folder `03_Texterkennung` contains a file `cheatsheet.md` and the folders `examples`, `instructions`, `slides` and `solutions`. 
+
+
 
