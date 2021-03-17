@@ -1,9 +1,11 @@
 # Cheatsheet Command Line
 Typically today, users interact with a computer through a graphical user interface and navigate through folders by pointing and clicking with a cursor. In programming however, this is often done through typing commands, instead of clicking. This page explains some typical commands that you might need in order to solve the exit coding game.
 
-Those commands are typed in the shell. The following image shows the state of the shell after the user has typed in the command `pwd`, followed by hitting the enter button. In this case the result of this command (`/home/runner/exit-coding-game`) is shown in the next line.
+Those commands are typed in the shell. The following image shows the state of the shell after the user has typed in the command `pwd`, followed by hitting the enter key. In this case the result of this command (`/home/runner/exit-coding-game`) is shown in the next line.
 
 ![typing commands in the repl.it shell](../img/shell.png?raw=true)
+
+**Commands are typed on one line and are executed by hitting the enter key.**
 
 ### Running the code in a Python script
 To run (or execute) the code in the Python file `hello_world.py`, type the following command:
