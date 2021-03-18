@@ -35,7 +35,15 @@ Achtung: Laden Sie die Seite nicht neu im Browser, ansonsten müssen Sie erneut 
 Jetzt weiter bei **2. Aufgabe - Nachricht entschlüsseln**.
 
 ## 2. Aufgabe - Nachricht entschlüsseln
-Im Ordner `03_Texterkennung/instructions` finden Sie das Python-Skript `decrypt.py`zur Entschlüsselung der Nachricht.
+
+In repl.it finden Sie im Ordner
+
+`03_Texterkennung/instructions/` die Datei `encrypted_message.txt`
+Diese enthält die verschlüsselte Botschaft von der Hausverwaltung in digitaler Form.
+Öffnen Sie die Datei und sehen sich diese an. Vgl. die folgende Abbildung:
+![](../../img/del_my_repls.png?raw=true)
+
+Im Ordner `03_Texterkennung/instructions` finden Sie auch das Python-Skript `decrypt.py`zur Entschlüsselung der Nachricht.
 
 Entschlüsseln Sie die Nachricht durch Ausführen
 von `decrypt.py`
