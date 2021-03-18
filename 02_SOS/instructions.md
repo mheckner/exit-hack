@@ -3,9 +3,9 @@ Diese Aufgabe werden Sie mit der Entwicklungsumgebung Arduino lösen.
 Folgen Sie der Anleitung aus der Einladungsemail, um diese zu installieren.
 
 # Arduino IDE starten und das erste Programm auf den Arduino laden
-1. Starten Sie die Arduino Entwicklungsumgebung
+1. Starten Sie die Arduino Entwicklungsumgebung.
 2. Klicken Sie in das Menü oben in der Arduino Entwicklungsumgebung. Öffnen Sie ein erstes Arduino Beispiel durch Klick auf `Datei->Beispiele->01. Basics->Blink`.
-3. Verbinden Sie den Arduino per USB-Kabel mit dem PC
+3. Verbinden Sie den Arduino per USB-Kabel mit dem PC.
 4. Übertragen Sie jetzt das Blink-Beispiel auf den Arduino durch Klick den Button "Hochladen in der Arduino IDE". Die orange LED auf dem Arduino sollte blinken. Möglicherweise wird dieses Programm bereits auf dem neuen Arduino ausgeführt. Verändern Sie die Werte für `delay` (Zeit in Millisekunden) und übertragen Sie das Programm erneut, um zu überprüfen, ob der Upload funktioniert.
 
 **Tipp:** Achten Sie darau, dass Sie im Menü unter `Tools->Port` den Arduino ausgewählt haben. Sonst kann das Programm nicht auf den Arduino übertragen werden.
