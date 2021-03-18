@@ -1,6 +1,6 @@
 # Achtung: Lesen Sie erst diese Seite vollständig durch, bevor Sie mit der Aufgabe beginnen.
 Diese Aufgabe werden Sie mit der Entwicklungsumgebung Arduino lösen.
-Folgen Sie der Anleitung aus der EInladungsemail, um diese zu installieren.
+Folgen Sie der Anleitung aus der Einladungsemail, um diese zu installieren.
 
 # Arduino IDE starten und das erste Programm auf den Arduino laden
 1. Starten Sie die Arduino Entwicklungsumgebung
