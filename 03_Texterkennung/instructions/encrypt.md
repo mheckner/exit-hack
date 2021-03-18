@@ -1,5 +1,10 @@
 # Aufgabe 3 - Texterkennung
 
+Hinweise:
+
+* Öffnen Sie diese Seite in einem Browser, nicht in replit (URL: https://github.com/mheckner/exit-hack/blob/master/03_Texterkennung/instructions/encrypt.md)
+* **Lesen Sie zuerst die gesamte Seite, bevor Sie mit der Bearbeitung beginnen**
+
 ## 1. Vorbereitung
 ### 1.1. Repl löschen, falls Sie den Anweisungen aus der Einladungsmail gefolgt sind
 Falls Sie den Anweisungen aus der Einladungsmail bereits gefolgt sind, müssen Sie die folgenden Schritte durchführen, um ihre Arbeitsumgebung noch einmal neu aufzusetzen (falls Sie die Anweisungen aus der Einladungsmail nicht gefolgt sind, dann weiter bei **1.2. Repl erstellen**).
