@@ -21,6 +21,10 @@ Das Ergebnis sollte in etwa so aussehen:
 
 ![](../img/arduino.png?raw=true)
 
+2. Stellen Sie jetzt die folgende Verkabelung her (**Stecken Sie den Arduino vorher aus!**):
+
+![wiring button led](./examples/hello_world_blynk_button/hello_world_blynk_button.png?raw=true)
+
 2. Übertragen Sie das Programm auf den Arduino durch Klick auf den Button *Hochladen* in der Arduino IDE.
 
 Stecken jetzt den Arduino wieder an. Die LED sollte leuchten, wenn Sie die Taste drücken.
