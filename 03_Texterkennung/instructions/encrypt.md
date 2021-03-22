@@ -30,7 +30,7 @@ Für diese Aufgabe benötigen Sie repl.it. Führen Sie die folgenden Schritte du
 5. Klicken Sie jetzt auf den grünen Button „Run“, um die Installation abzuschließen
 6. Warten Sie ein paar Minuten, bis Sie eine Bestätigung der Installation auf der rechten Seite der Website im Tab „Console“ sehen.
 
-Achtung: Laden Sie die Seite nicht neu im Browser, ansonsten müssen Sie erneut den run-Button klicken.
+**Achtung: Laden Sie die Seite nicht neu im Browser, ansonsten müssen Sie erneut den run-Button klicken.**
 
 Jetzt weiter bei **2. Aufgabe - Nachricht entschlüsseln**.
 
