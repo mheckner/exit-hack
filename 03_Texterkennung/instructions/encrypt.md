@@ -53,4 +53,4 @@ Falls Sie Hilfe zum Starten des Programms benötigen, können Sie einen Blick in
 **Offensichtlich enthält dieses Programm einen Fehler (= Bug).**
 
 **Finden Sie diesen Bug und entschlüsseln Sie die Nachricht mit dem korrigierten
-Programm. Folgen Sie dann den Anweisungen in der entschlüsselten Nachricht.**
+Programm. Folgen Sie dann den Anweisungen in der entschlüsselten Nachricht (Tipp: Suchen Sie den Bug in der Datei, Sie müssen nicht den gesamten Code verstehen, die Fehlerstelle ist aber leicht zu übersehen!**
