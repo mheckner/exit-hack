@@ -25,7 +25,7 @@ Für diese Aufgabe benötigen Sie repl.it. Führen Sie die folgenden Schritte du
 
 1. Registrieren Sie sich bei repl.it unter dem folgenden Link: https://repl.it/signup
 2. Klicken Sie anschließend auf den folgenden Link: https://repl.it/@mheckner/exit-coding-game
-3. Klicken Sie auf den blauen Button „Fork“
+3. Klicken Sie auf den blauen Button „Fork repl“ und warten Sie anschließend ca. 30 Sekunden
 4. Optional: Loggen Sie sich auf repl ein (falls nicht bereits automatisch durch die Registrierung geschehen)
 5. Klicken Sie jetzt auf den grünen Button „Run“, um die Installation abzuschließen
 6. Warten Sie ein paar Minuten, bis Sie eine Bestätigung der Installation auf der rechten Seite der Website im Tab „Console“ sehen.
