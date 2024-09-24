@@ -29,7 +29,7 @@ Das Ergebnis sollte in etwa so aussehen:
 
 Stecken jetzt den Arduino wieder an. Die LED sollte leuchten, wenn Sie die Taste drücken.
 
-**Passen Sie jetzt den Code der geöffneten Datei so an, dass das SOS Signal bei Tastendruck gesendet wird!**
+**Passen Sie jetzt den Code der geöffneten Datei so an, dass das SOS Signal bei Tastendruck gesendet wird! Verwenden Sie Schleifen, wo immer sinnvoll!**
 
 ## Tipps
 * [Grundlagen Morsecode](https://github.com/mheckner/exit-hack/blob/master/02_SOS/morsecode.md)
