@@ -10,7 +10,7 @@ Für diese Aufgabe benötigen Sie repl.it. Führen Sie die folgenden Schritte du
 
 1. Registrieren Sie sich bei repl.it unter dem folgenden Link: https://repl.it/signup
 2. Optional: Loggen Sie sich auf repl ein (falls nicht bereits automatisch durch die Registrierung geschehen)
-3. Klicken Sie anschließend auf den folgenden Link: https://repl.it/@mheckner/exit-coding-game
+3. Kopieren Sie anschließend den folgenden Link in einen neuen Browsertab und öffnen die Seite: https://repl.it/@mheckner/exit-coding-game
 4. Klicken Sie "Fork" und anschließend auf den blauen Button „Fork Repl“ und warten Sie anschließend ca. 30 Sekunden
 
 Jetzt weiter bei **2. Aufgabe - Nachricht entschlüsseln**.
