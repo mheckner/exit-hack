@@ -6,7 +6,7 @@ Hinweise:
 * **Lesen Sie zuerst die gesamte Seite, bevor Sie mit der Bearbeitung beginnen**
 
 ## 1. Vorbereitung - Repl erstellen
-Für diese Aufgabe benötigen Sie repl.it. Führen Sie die folgenden Schritte durch falls noch nicht geschehen:
+Für diese Aufgabe benötigen Sie replit. Führen Sie die folgenden Schritte durch falls noch nicht geschehen:
 
 1. Registrieren Sie sich bei repl.it unter dem folgenden Link: https://repl.it/signup
 2. Optional: Loggen Sie sich auf repl ein (falls nicht bereits automatisch durch die Registrierung geschehen)
