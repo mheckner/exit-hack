@@ -29,7 +29,7 @@ Im Ordner `03_Texterkennung/instructions` finden Sie auch das Python-Skript `dec
 Entschlüsseln Sie die Nachricht durch Ausführen
 von `decrypt.py`
 
-Falls Sie Hilfe zum Starten des Programms benötigen, können Sie einen Blick in die Folien im Ordner `03_Texterkennung/slides` werfen.
+Falls Sie Hilfe zum Starten des Programms benötigen, können Sie einen Blick in die Folien im Ordner `03_Texterkennung/slides` (https://github.com/mheckner/exit-hack/blob/master/03_Texterkennung/slides/Exit_Coding_Game-Intro-Python.pdf) werfen.
 
 **Offensichtlich enthält dieses Programm einen Fehler (= Bug).**
 
