@@ -8,7 +8,7 @@ Hinweise:
 ## 1. Vorbereitung - Repl erstellen
 Für diese Aufgabe benötigen Sie replit. Führen Sie die folgenden Schritte durch falls noch nicht geschehen:
 
-1. Registrieren Sie sich bei repl.it unter dem folgenden Link: https://repl.it/signup
+1. Registrieren Sie sich bei replit unter dem folgenden Link: https://repl.it/signup
 2. Optional: Loggen Sie sich auf repl ein (falls nicht bereits automatisch durch die Registrierung geschehen)
 3. Kopieren Sie anschließend den folgenden Link in einen neuen Browsertab und öffnen die Seite: https://repl.it/@mheckner/exit-coding-game
 4. Klicken Sie "Fork" und anschließend auf den blauen Button „Fork Repl“ und warten Sie anschließend ca. 30 Sekunden
@@ -17,7 +17,7 @@ Jetzt weiter bei **2. Aufgabe - Nachricht entschlüsseln**.
 
 ## 2. Aufgabe - Nachricht entschlüsseln
 
-In repl.it finden Sie im Ordner
+In replit finden Sie im Ordner
 
 `03_Texterkennung/instructions/` die Datei `encrypted_message.txt`
 Diese enthält die verschlüsselte Botschaft von der Hausverwaltung in digitaler Form.
